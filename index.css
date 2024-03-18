@@ -1,0 +1,130 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.proffession {
+    text-emphasis: 3ems;
+}
+.container {
+    max-width: 1000px;
+    margin: 10px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+}
+
+h1, h2, h3 {
+    margin-top: 0;
+}
+
+.section {
+    margin-bottom: 20px;
+    
+}
+
+.section h2 {
+    border-bottom: 2px solid #333;
+    padding-bottom: 5px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.section-skill{
+    background-color: white;
+    color: cornsilk;
+    display: flex;
+}
+
+.section-skill li{
+    list-style-type: circle;
+    
+}
+.section-skill li::marker{
+    font-size: larger;
+}
+.second-container h2{
+    width: 100%;
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin-bottom: 0px;
+}
+
+
+
+.section-Education{
+    margin-bottom: 20px;
+    background-color: crimson;
+    margin: 20px;
+    padding: 10px;
+
+}
+
+.section-Experience{
+    margin-bottom: 20px;
+    max-width: 650px;
+}
+.section-Experience h2{
+    text-align: center;
+}
+
+.second-container{
+    margin: auto;
+    max-width: 1000px;
+}
+.list-skills{
+    float: left;
+    background-color: black;
+    width: 50%;
+    margin-right: 5px;
+}
+.list-skills2{
+    float: right;
+    background-color: black;
+    width: 50%;
+    margin-left: 5px;
+}
+.list-skills2 li{
+    list-style-type: circle;
+}
+
+.section-personal{
+    background-color: crimson;
+    margin: 20px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.two{
+    float: left;
+}
+
+.non{
+    text-decoration: none;
+}
