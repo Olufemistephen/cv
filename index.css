@@ -128,3 +128,8 @@ footer {
 .non{
     text-decoration: none;
 }
+
+.img{
+    margin: 20px;
+    padding: 10px;
+}
