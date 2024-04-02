@@ -161,8 +161,9 @@ footer {
     
     .exp{
         padding: 10px;
-        background-color: red;
+        background-color: black;
         color: white;
+        display: block;
     }
 }
         
