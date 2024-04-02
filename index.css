@@ -163,6 +163,7 @@ footer {
         padding: 10px;
         height: 60px;
         color: white;
+        positiion: relative;
     
     }
 }
