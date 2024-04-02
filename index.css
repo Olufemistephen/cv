@@ -161,7 +161,7 @@ footer {
     
     .section-Experience h2{
         padding: 10px;
-        height: 60px;
+        background: black;
         color: white;
     }
 }
