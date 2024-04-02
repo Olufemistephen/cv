@@ -58,6 +58,7 @@ footer {
 .section-skill{
     background-color: white;
     color: cornsilk;
+    display: flex;
 }
 
 .section-skill li{
