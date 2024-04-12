@@ -34,6 +34,22 @@ header {
     font-size: 28px;
 }
 
+.all:hover{
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    border-radius: 8px;
+    background-color: black;
+}
+.all:focus{
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    border-radius: 8px;
+    background-color: black;
+
 .proffession {
     text-emphasis: 3ems;
 }
