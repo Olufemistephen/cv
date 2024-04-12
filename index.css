@@ -185,10 +185,10 @@ footer {
         display: flex;
     }
     .hd1{
-        flex-direction: column;
+        flex-direction: row;
     }
     .hd2{
-        flex-direction: column;
+        flex-direction: row;
     }
     
     .container {
