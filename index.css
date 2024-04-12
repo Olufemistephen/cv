@@ -180,6 +180,12 @@ footer {
 }
 
 @media screen and (max-width: 480px) {
+
+    header{
+        display: flex;
+        flex-direction: column;
+    }
+    
     .container {
         max-width: 480px;
         margin: 5px auto;
