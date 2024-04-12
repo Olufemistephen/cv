@@ -183,6 +183,11 @@ footer {
 
     header{
         display: flex;
+    }
+    .hd1{
+        flex-direction: column;
+    }
+    .hd2{
         flex-direction: column;
     }
     
