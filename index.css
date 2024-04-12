@@ -20,7 +20,18 @@ header {
 
 .hd2 {
     float: right;
+    display: flex;
+    float: right;
+    margin-top: 20px;
+    max-width: 600px;
+    height: 70px;
+    margin-left: 262px;
 }
+
+.hd2 a{
+    margin-inline-end: 65px;
+    text-decoration: none;
+    font-size: 28px;
 
 .proffession {
     text-emphasis: 3ems;
