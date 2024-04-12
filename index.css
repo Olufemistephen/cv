@@ -11,6 +11,15 @@ header {
     color: #fff;
     padding: 20px;
     text-align: center;
+    display: flex;
+}
+
+.hd1 {
+    float: left;
+}
+
+.hd2 {
+    float: right;
 }
 
 .proffession {
