@@ -182,6 +182,7 @@ footer {
 @media screen and (max-width: 480px) {
 
     header{
+        display: inline-block;
     }
     .hd2{
         max-width: 480px;
