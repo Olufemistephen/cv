@@ -185,11 +185,12 @@ footer {
         max-width: 480px;
         display: block;
         background-color: #333;
+        max-height: 240px; 
         
     }
     .hd1{
         max-width: 480px;
-        font-size: 18px;
+        font-size: 16px;
         
     }
     .hd2{
