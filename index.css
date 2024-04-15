@@ -184,13 +184,17 @@ footer {
     header{
         max-width: 480px;
         display: block;
+        
     }
     .hd1{
         max-width: 480px;
+        display: block;
+        
         
     }
     .hd2{
         max-width: 480px;
+        display: block;
     }
 
     .hd2 a{
